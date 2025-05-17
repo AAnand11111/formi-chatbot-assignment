@@ -1,0 +1,22 @@
+
+{
+  "delhi": {
+    "unity_mall_janakpuri": {
+      "closures": ["2025-03-14 (Holi lunch closed)"],
+      "contact": "7827935431",
+      "timings": {
+        "lunch": "12:00 pm – 5:00 pm",
+        "dinner": "6:00 pm – 12:00 am"
+      }
+    },
+    "vasant_kunj": {
+      "closures": ["2024-10-27 (dinner closed)"],
+      "contact": "7303094054"
+    }
+  },
+  "bangalore": {
+    "koramangala": {
+      "closures": ["2024-10-02 (Gandhi Jayanthi)"]
+    }
+  }
+}
